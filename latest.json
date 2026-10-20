@@ -1,0 +1,8 @@
+{
+  "versionCode": 5,
+  "versionName": "0.4.1",
+  "apkUrl": "https://github.com/xiefeng44/daily-poetry/releases/download/v0.4.1/daily-poetry-0.4.1.apk",
+  "sha256": "cb452a5584929290e09fff19bbad10c04afcc9a3e7251905d151e0a1ab2cb117",
+  "sizeBytes": 139588507,
+  "notes": "内置 GitHub 更新地址，新增版本检查、下载校验与覆盖安装入口。"
+}
