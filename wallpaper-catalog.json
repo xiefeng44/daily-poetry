@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "packs": [
+    {
+      "id": "ink-mobile",
+      "version": 1,
+      "platform": "mobile",
+      "name": "水墨山水 · 手机竖屏",
+      "url": "https://github.com/xiefeng44/daily-poetry/releases/download/v0.5.0/ink-mobile-v1.zip",
+      "sha256": "6c281f64b2671ce5761e735d339b568f2614c120401a1b62b8c6c5f3a2198813",
+      "bytes": 1935337,
+      "count": 3
+    },
+    {
+      "id": "ink-desktop",
+      "version": 1,
+      "platform": "desktop",
+      "name": "水墨山水 · PC 横屏",
+      "url": "https://github.com/xiefeng44/daily-poetry/releases/download/v0.5.0/ink-desktop-v1.zip",
+      "sha256": "27fda67d78af6b04804f514c009250dc325b8a28d44ffa8f288f1d6325fd17e0",
+      "bytes": 5657370,
+      "count": 3
+    }
+  ]
+}
