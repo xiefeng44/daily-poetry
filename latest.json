@@ -1,8 +1,8 @@
 {
-  "versionCode": 6,
-  "versionName": "0.5.0",
-  "apkUrl": "https://github.com/xiefeng44/daily-poetry/releases/download/v0.5.0/daily-poetry-0.5.0.apk",
-  "sha256": "d7f5c0c5cdfd212e04173cb30f5999bfbf338dfc65355512c3974c254c170455",
-  "sizeBytes": 139604891,
-  "notes": "新增本地壁纸库、多图导入、裁切预览、诗词指定背景，以及手机/PC独立官方主题包下载。"
+  "versionCode": 7,
+  "versionName": "0.5.1",
+  "apkUrl": "https://github.com/xiefeng44/daily-poetry/releases/download/v0.5.1/daily-poetry-0.5.1.apk",
+  "sha256": "3e53dd67d5d63da567dec9f891b1b7e9b4332e2f26f523f17c25c7888397508b",
+  "sizeBytes": 139608987,
+  "notes": "壁纸列表新增缩略图，点击图片即可进入预览、裁切与诗词搭配。"
 }

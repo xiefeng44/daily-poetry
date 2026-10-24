@@ -4,13 +4,13 @@
 
 ## 下载与安装
 
-[下载 0.5.0 安装包（约 133 MB）](https://github.com/xiefeng44/daily-poetry/releases/download/v0.5.0/daily-poetry-0.5.0.apk) · [版本说明与壁纸包](https://github.com/xiefeng44/daily-poetry/releases/tag/v0.5.0)
+[下载 0.5.1 安装包（约 133 MB）](https://github.com/xiefeng44/daily-poetry/releases/download/v0.5.1/daily-poetry-0.5.1.apk) · [新版说明](https://github.com/xiefeng44/daily-poetry/releases/tag/v0.5.1) · [官方壁纸包](https://github.com/xiefeng44/daily-poetry/releases/tag/v0.5.0)
 
 请直接覆盖旧版本，不要先卸载，以保留设置。0.4.1 用户也可点“检查应用更新”升级。首次安装后打开应用，点“设为锁屏并开启每日换诗”。系统省电限制可能延迟自动换诗，请允许自启动及后台运行。仅更换锁屏图片，指纹、时钟和解锁由系统管理。
 
 ## 壁纸库
 
-进入“壁纸库”可导入自己的图片，裁切、缩放、调整文字位置、文字颜色和底板透明度。图片可加入随机轮换，也可指定给当前诗。个人图片复制到应用内，仅在本机使用，不上传；卸载应用会移除副本，请保留原图。
+壁纸列表显示个人与已下载官方图片的缩略图，点击图片即可进入预览、裁切及诗词搭配。进入“壁纸库”可导入自己的图片，裁切、缩放、调整文字位置、文字颜色和底板透明度。图片可加入随机轮换，也可指定给当前诗。个人图片复制到应用内，仅在本机使用，不上传；卸载应用会移除副本，请保留原图。
 
 点“检查官方壁纸包”可下载官方主题，默认仅 Wi-Fi 下载。目录按 mobile 手机竖屏、desktop PC 横屏分开，下载后可离线使用。官方包可独立于应用更新；原有启用状态与用户调整的布局会保留。首包为已有 3 套水墨背景，手机包约 1.8 MB，PC 包约 5.4 MB。
 
